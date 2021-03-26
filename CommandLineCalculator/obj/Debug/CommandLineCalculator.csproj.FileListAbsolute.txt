@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\CommandLineCalculator.pdb
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\FluentAssertions.dll
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\FluentAssertions.xml
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Контур\CommandLineCalculator\obj\Debug\CommandLineCalculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Контур\CommandLineCalculator\obj\Debug\CommandLineCalculator.csproj.CopyComplete
+C:\Users\User\Desktop\Контур\CommandLineCalculator\obj\Debug\CommandLineCalculator.pdb
+C:\Users\User\Desktop\Контур\CommandLineCalculator\bin\Debug\CommandLineCalculator.exe
+C:\Users\User\Desktop\Контур\CommandLineCalculator\obj\Debug\CommandLineCalculator.exe

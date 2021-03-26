@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.exe
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.deps.json
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.runtimeconfig.json
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.dll
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\bin\Debug\netcoreapp3.1\KizhiPart3.pdb
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\obj\Debug\netcoreapp3.1\KizhiPart3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\obj\Debug\netcoreapp3.1\KizhiPart3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\obj\Debug\netcoreapp3.1\KizhiPart3.AssemblyInfo.cs
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\obj\Debug\netcoreapp3.1\KizhiPart3.dll
+C:\Users\User\Desktop\Контур\Kizhi\Kizhi\KizhiPart3\obj\Debug\netcoreapp3.1\KizhiPart3.pdb

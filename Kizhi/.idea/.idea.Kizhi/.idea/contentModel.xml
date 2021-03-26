@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Kizhi.894375779.00" t="ExcludeRecursive" />
+    <e p="D:\Контур\Kizhi\Kizhi" t="IncludeFlat">
+      <e p="Kizhi.sln" t="IncludeFlat" />
+      <e p="KizhiChecking" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Kizhi1Union.cs" t="Include" />
+        <e p="Kizhi2Union.cs" t="Include" />
+        <e p="Kizhi3Union.cs" t="Include" />
+        <e p="KizhiChecking.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KizhiChecking.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="KizhiPart1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="ICommand.cs" t="Include" />
+          <e p="PrintCommand.cs" t="Include" />
+          <e p="RemCommand.cs" t="Include" />
+          <e p="SetCommand.cs" t="Include" />
+          <e p="SubCommand.cs" t="Include" />
+        </e>
+        <e p="CommandTree" t="Include">
+          <e p="CommandTree.cs" t="Include" />
+          <e p="INode.cs" t="Include" />
+          <e p="ITree.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+        </e>
+        <e p="Consts" t="Include">
+          <e p="CommandResult.cs" t="Include" />
+          <e p="Errors.cs" t="Include" />
+          <e p="KeyWords.cs" t="Include" />
+          <e p="Rules.cs" t="Include" />
+        </e>
+        <e p="Interpretator" t="Include">
+          <e p="IInterpreter.cs" t="Include" />
+          <e p="Interpreter.cs" t="Include" />
+        </e>
+        <e p="KizhiPart1.csproj" t="IncludeRecursive" />
+        <e p="Memory" t="Include">
+          <e p="IMemory.cs" t="Include" />
+          <e p="Memory.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KizhiPart1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ResultPattern" t="Include">
+          <e p="Result.cs" t="Include" />
+        </e>
+      </e>
+      <e p="KizhiPart2" t="IncludeRecursive">
+        <e p="Analyzer" t="Include">
+          <e p="ILexicalAnalyzer.cs" t="Include" />
+          <e p="LexicalAnalyzer.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="CallCommand.cs" t="Include" />
+          <e p="EndCommand.cs" t="Include" />
+          <e p="ICommand.cs" t="Include" />
+          <e p="PrintCommand.cs" t="Include" />
+          <e p="RemCommand.cs" t="Include" />
+          <e p="RunCommand.cs" t="Include" />
+          <e p="SetCodeCommand.cs" t="Include" />
+          <e p="SetCommand.cs" t="Include" />
+          <e p="SubCommand.cs" t="Include" />
+        </e>
+        <e p="CommandTree" t="Include">
+          <e p="CommandTree.cs" t="Include" />
+          <e p="INode.cs" t="Include" />
+          <e p="ITree.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+        </e>
+        <e p="Consts" t="Include">
+          <e p="CommandResult.cs" t="Include" />
+          <e p="Errors.cs" t="Include" />
+          <e p="KeyWords.cs" t="Include" />
+          <e p="Rules.cs" t="Include" />
+          <e p="States.cs" t="Include" />
+        </e>
+        <e p="ExecutionContext" t="Include">
+          <e p="ExecutionContext.cs" t="Include" />
+        </e>
+        <e p="Interpretator" t="Include">
+          <e p="IInterpreter.cs" t="Include" />
+          <e p="Interpreter.cs" t="Include" />
+        </e>
+        <e p="KizhiPart2.csproj" t="IncludeRecursive" />
+        <e p="Memory" t="Include">
+          <e p="IMemory.cs" t="Include" />
+          <e p="Memory.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KizhiPart2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ResultPattern" t="Include">
+          <e p="Result.cs" t="Include" />
+        </e>
+      </e>
+      <e p="KizhiPart3" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommandTree" t="Include">
+          <e p="CommandTree.cs" t="Include" />
+          <e p="INode.cs" t="Include" />
+          <e p="ITree.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+        </e>
+        <e p="Consts" t="Include">
+          <e p="CommandResult.cs" t="Include" />
+          <e p="Commands.cs" t="Include" />
+          <e p="Componenst.cs" t="Include" />
+          <e p="Errors.cs" t="Include" />
+          <e p="Rules.cs" t="Include" />
+          <e p="States.cs" t="Include" />
+        </e>
+        <e p="DebugGer" t="Include">
+          <e p="Commands" t="Include">
+            <e p="AddBreakPoint.cs" t="Include" />
+            <e p="PrintMem.cs" t="Include" />
+            <e p="PrintStack.cs" t="Include" />
+            <e p="Run.cs" t="Include" />
+            <e p="Step.cs" t="Include" />
+            <e p="StepOver.cs" t="Include" />
+          </e>
+          <e p="Debugger.cs" t="Include" />
+        </e>
+        <e p="IInterpretator" t="Include">
+          <e p="IInterpreter.cs" t="Include" />
+        </e>
+        <e p="Interpretator" t="Include">
+          <e p="Analyzer" t="Include">
+            <e p="ILexicalAnalyzer.cs" t="Include" />
+            <e p="LexicalAnalyzer.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="CallCommand.cs" t="Include" />
+            <e p="EndCommand.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="PrintCommand.cs" t="Include" />
+            <e p="RemCommand.cs" t="Include" />
+            <e p="RunCommand.cs" t="Include" />
+            <e p="SetCodeCommand.cs" t="Include" />
+            <e p="SetCommand.cs" t="Include" />
+            <e p="SubCommand.cs" t="Include" />
+          </e>
+          <e p="Interpreter.cs" t="Include" />
+          <e p="Memory" t="Include">
+            <e p="Memory.cs" t="Include" />
+          </e>
+          <e p="State" t="Include">
+            <e p="State.cs" t="Include" />
+          </e>
+        </e>
+        <e p="KizhiPart3.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KizhiPart3.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ResultPattern" t="Include">
+          <e p="Result.cs" t="Include" />
+        </e>
+      </e>
+      <e p="KizhiPart3.2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommandTree" t="Include">
+          <e p="CommandTree.cs" t="Include" />
+          <e p="INode.cs" t="Include" />
+          <e p="ITree.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+        </e>
+        <e p="Consts" t="Include">
+          <e p="CommandResult.cs" t="Include" />
+          <e p="Errors.cs" t="Include" />
+          <e p="KeyWords.cs" t="Include" />
+          <e p="Rules.cs" t="Include" />
+          <e p="States.cs" t="Include" />
+        </e>
+        <e p="DebugGer" t="Include">
+          <e p="Commands" t="Include">
+            <e p="AddBreakPoint.cs" t="Include" />
+            <e p="PrintMem.cs" t="Include" />
+            <e p="PrintStack.cs" t="Include" />
+            <e p="Run.cs" t="Include" />
+            <e p="Step.cs" t="Include" />
+            <e p="StepOver.cs" t="Include" />
+          </e>
+          <e p="Debugger.cs" t="Include" />
+        </e>
+        <e p="Intepreter" t="Include">
+          <e p="IInterpreter.cs" t="Include" />
+        </e>
+        <e p="Interpretator" t="Include">
+          <e p="Analyzer" t="Include">
+            <e p="ILexicalAnalyzer.cs" t="Include" />
+            <e p="LexicalAnalyzer.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="CallCommand.cs" t="Include" />
+            <e p="EndCommand.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="PrintCommand.cs" t="Include" />
+            <e p="RemCommand.cs" t="Include" />
+            <e p="RunCommand.cs" t="Include" />
+            <e p="SetCodeCommand.cs" t="Include" />
+            <e p="SetCommand.cs" t="Include" />
+            <e p="SubCommand.cs" t="Include" />
+          </e>
+          <e p="ExecutionContext" t="Include">
+            <e p="ExecutionContext.cs" t="Include" />
+          </e>
+          <e p="Interpreter.cs" t="Include" />
+          <e p="Memory" t="Include">
+            <e p="IMemory.cs" t="Include" />
+            <e p="Memory.cs" t="Include" />
+          </e>
+        </e>
+        <e p="KizhiPart3.2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KizhiPart3.2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ResultPattern" t="Include">
+          <e p="Result.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

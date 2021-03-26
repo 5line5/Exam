@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f3bce8-f128-42d4-9d05-0141fb7dda0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/ad/14e447cc/ParallelWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/TestException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/TestConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/BrokenConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/MemoryStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/6f/1b50cdb0/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/StatefulInterpreterShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/56/e937f8d4/ThreadHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/91/80148486/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/1a/f4457089/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/0c/55b9818d/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE63C66-9550-4376-A9D2-6A4684643016/7b/af88694c/ObjectAssertions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/79/ce85f3d7/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/a6/a7c1e5e4/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/bb/05de5096/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Storage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FileStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StatelessInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/e6/72552101/TestWorker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TextUserConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/9d/663e857d/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StatefulInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/e8/fbb5b268/ThreadHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/3d/66dd4379/TextReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/d1/da8ea1ff/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/StatefulInterpreterShould.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/StatefulInterpreter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqZrF8rAmMFcJaN5KFJNzr8hCj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CommandLineCalculator" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CommandLineCalculator.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f3bce8-f128-42d4-9d05-0141fb7dda0f" name="Default Changelist" comment="" />
+      <created>1583672281505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583672281505</updated>
+      <workItem from="1583672282747" duration="92000" />
+      <workItem from="1583754443460" duration="193000" />
+      <workItem from="1583755451065" duration="9860000" />
+      <workItem from="1583820598177" duration="1259000" />
+      <workItem from="1583826943288" duration="4806000" />
+      <workItem from="1583832287291" duration="3238000" />
+      <workItem from="1584391195095" duration="5682000" />
+      <workItem from="1584427886964" duration="458000" />
+      <workItem from="1584432259347" duration="9211000" />
+      <workItem from="1584462681446" duration="5530000" />
+      <workItem from="1585074469128" duration="1257000" />
+      <workItem from="1585082923482" duration="1084000" />
+      <workItem from="1585084053274" duration="4454000" />
+      <workItem from="1585092049117" duration="6301000" />
+      <workItem from="1585122678943" duration="18780000" />
+      <workItem from="1585512978409" duration="1104000" />
+      <workItem from="1585514300729" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="453" height="466" key="DebuggerActiveHint" timestamp="1585140260373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="453" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1585140260373" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1585146138766">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585146138766" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1585146138766">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585146138766" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1585146138766">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585146138766" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1585146138766">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585146138766" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585146138741">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585146138741" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.2.center" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.2.left" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.2.right" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.3.bottom" timestamp="1585146138743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585146138743" />
+    <state width="1493" height="277" key="GridCell.Tab.3.center" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.3.left" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.3.right" timestamp="1585146138742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1585146138742" />
+    <state width="1493" height="277" key="GridCell.Tab.4.bottom" timestamp="1585146138743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.4.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585146138743" />
+    <state width="1493" height="277" key="GridCell.Tab.4.center" timestamp="1585146138743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.4.center/0.0.1536.864@0.0.1536.864" timestamp="1585146138743" />
+    <state width="1493" height="277" key="GridCell.Tab.4.left" timestamp="1585146138743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.4.left/0.0.1536.864@0.0.1536.864" timestamp="1585146138743" />
+    <state width="1493" height="277" key="GridCell.Tab.4.right" timestamp="1585146138743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.4.right/0.0.1536.864@0.0.1536.864" timestamp="1585146138743" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585514397183">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585514397183" />
+    <state x="491" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585128246058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="491" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.864@0.0.1536.864" timestamp="1585128246058" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/StatefulInterpreter.cs</url>
+          <line>40</line>
+          <properties documentPath="$PROJECT_DIR$/StatefulInterpreter.cs" initialLine="40">
+            <startOffsets>
+              <option value="1257" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1276" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

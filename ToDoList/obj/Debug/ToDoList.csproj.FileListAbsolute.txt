@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\ToDoList.dll
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\FluentAssertions.dll
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\FluentAssertions.xml
+C:\Users\User\Desktop\Контур\ToDoList\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Контур\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Контур\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\User\Desktop\Контур\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\User\Desktop\Контур\ToDoList\obj\Debug\ToDoList.pdb

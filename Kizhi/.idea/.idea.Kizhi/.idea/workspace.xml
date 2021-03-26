@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a33a648-598c-4c42-90c5-42a8efdf1f67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/2B6/RuntimeMethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/Componenst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/Commands.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/12/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/States.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/31/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/Rules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/1D/Delegate.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/CommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/ResultPattern/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/ExecutionContext/ExecutionContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Interpretator/Interpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Interpretator/IInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/CommandTree/CommandTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/CommandTree/INode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/CommandTree/ITree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/CommandTree/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/RemCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/SetCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/EndCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/SubCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/CallCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/SetCodeCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/PrintCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Analyzer/LexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Commands/RunCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Memory/IMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Analyzer/ILexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Consts/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Memory/Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Consts/Rules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Consts/States.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Consts/KeyWords.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Consts/CommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kizhi1Checking/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/ResultPattern/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Interpretator/Interpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Interpretator/IInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/CommandTree/CommandTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/CommandTree/INode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/CommandTree/ITree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/CommandTree/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Commands/SubCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/D3/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Commands/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Commands/PrintCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Commands/RemCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Memory/IMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Commands/SetCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Consts/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Memory/Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Consts/CommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Consts/Rules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Consts/KeyWords.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiChecking/Kizhi2Union.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiChecking/Kizhi1Union.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiChecking/Kizhi3Union.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiChecking/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/ExecutionContext/ExecutionContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/ResultPattern/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/RemCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SetCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/EndCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SubCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/CallCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SetCodeCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/PrintCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Analyzer/LexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/RunCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Memory/IMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Analyzer/ILexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Memory/Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Interpretator/Interpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7B190B13-A310-4BD3-8749-56379F74DEFF/C/Aggregate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/CommandTree/CommandTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/CommandTree/INode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/CommandTree/ITree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/CommandTree/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/PrintStack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Intepreter/IInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/Run.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/Step.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/AddBreakPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/PrintMem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/3D5/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/StepOver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Consts/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Consts/Rules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/1E/Delegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Consts/States.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Consts/KeyWords.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Consts/CommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/3A/Type.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/30/RuntimeType.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3.2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/IInterpretator/IInterpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/SetCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/ResultPattern/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/SubCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/RemCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/SetCodeCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/EndCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/PrintCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/CallCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/RunCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBB3B884-123D-47EA-9CD1-5BED540D02AE/ec/4f82e294/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Commands/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Analyzer/ILexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Analyzer/LexicalAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/State/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Memory/Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/CommandTree/INode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Interpretator/Interpreter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/CommandTree/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/CommandTree/CommandTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/PrintStack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/CommandTree/ITree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/Run.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/Step.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/AddBreakPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBB3B884-123D-47EA-9CD1-5BED540D02AE/68/7a099595/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/PrintMem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/StepOver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BE30F059-06DD-42DF-8B46-2939459B49EA/14/Stack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KizhiPart3/Consts/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Commands/SetCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Commands/SubCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/CommandTree/INode.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/CommandTree/ITree.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/CommandTree/Node.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Consts/CommandResult.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Consts/Errors.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/ExecutionContext/ExecutionContext.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/IInterpreter.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Memory/IMemory.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Memory/Memory.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Consts/KeyWords.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Consts/Rules.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/Consts/Rules.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/CommandTree/CommandTree.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/CommandTree/CommandTree.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/CallCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/EndCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/ICommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/PrintCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/RemCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SetCodeCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3/Debugger/Commands/AddBreakPoint.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Intepreter/IInterpreter.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3/Debugger/Debugger.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/AddBreakPoint.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Memory/Memory.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Memory/IMemory.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SubCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/SetCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/Step.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Analyzer/ILexicalAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/Analyzer/ILexicalAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/Analyzer/LexicalAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/Interpretator/Interpreter.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/ExecutionContext/ExecutionContext.cs" />
+        <option value="$PROJECT_DIR$/KizhiChecking/Kizhi2Union.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/ExecutionContext/ExecutionContext.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Analyzer/LexicalAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/Run.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Commands/RunCommand.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart2/Program.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/ResultPattern/Result.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Consts/States.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/StepOver.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/PrintMem.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Commands/PrintStack.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Interpretator/Interpreter.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Program.cs" />
+        <option value="$PROJECT_DIR$/KizhiPart3.2/Debugger/Debugger.cs" />
+        <option value="$PROJECT_DIR$/KizhiChecking/Kizhi3Union.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiIWCn6rrmD99JTbK5jITlr4cL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected=".NET Project.KizhiPart3.2">
+    <configuration name="Kizhi" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KizhiPart3/KizhiPart3.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KizhiPart1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KizhiPart1/KizhiPart1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KizhiPart2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KizhiPart2/KizhiPart2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KizhiPart3.2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KizhiPart3.2/KizhiPart3.2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.KizhiPart3.2" />
+        <item itemvalue=".NET Project.KizhiPart2" />
+        <item itemvalue=".NET Project.KizhiPart1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a33a648-598c-4c42-90c5-42a8efdf1f67" name="Default Changelist" comment="" />
+      <created>1583419017860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583419017860</updated>
+      <workItem from="1583419019294" duration="4254000" />
+      <workItem from="1583442833385" duration="843000" />
+      <workItem from="1583482026068" duration="6428000" />
+      <workItem from="1583511116880" duration="9999000" />
+      <workItem from="1583562499094" duration="1222000" />
+      <workItem from="1583572378145" duration="4053000" />
+      <workItem from="1583586814845" duration="10818000" />
+      <workItem from="1583609363662" duration="700000" />
+      <workItem from="1583658544354" duration="8994000" />
+      <workItem from="1583672376417" duration="10690000" />
+      <workItem from="1583689374176" duration="11375000" />
+      <workItem from="1583745958018" duration="8098000" />
+      <workItem from="1584518554516" duration="2455000" />
+      <workItem from="1584542251234" duration="15916000" />
+      <workItem from="1584571231708" duration="1268000" />
+      <workItem from="1584610238735" duration="25057000" />
+      <workItem from="1584964898830" duration="9611000" />
+      <workItem from="1584977505856" duration="9186000" />
+      <workItem from="1585007102969" duration="5469000" />
+      <workItem from="1585056985977" duration="17104000" />
+      <workItem from="1585305230740" duration="21132000" />
+      <workItem from="1585496929285" duration="10813000" />
+      <workItem from="1585514124042" duration="175000" />
+      <workItem from="1585514501768" duration="4943000" />
+      <workItem from="1587624246406" duration="936000" />
+      <workItem from="1588324160328" duration="1486000" />
+      <workItem from="1604239291811" duration="539000" />
+      <workItem from="1604317875352" duration="1308000" />
+      <workItem from="1616777534667" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="624" height="544" key="DebuggerActiveHint" timestamp="1585504187035">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="624" height="544" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1585504187035" />
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1585520459303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585520459303" />
+    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1585520459303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585520459303" />
+    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1585520459303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585520459303" />
+    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1585520459303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585520459303" />
+    <state width="1493" height="234" key="GridCell.Tab.1.bottom" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.1.center" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.1.left" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.1.right" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.2.bottom" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.2.center" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.2.left" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.2.right" timestamp="1585512971691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1585512971691" />
+    <state width="1493" height="234" key="GridCell.Tab.3.bottom" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.3.center" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.3.left" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.3.right" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.4.bottom" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.4.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.4.center" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.4.center/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.4.left" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.4.left/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state width="1493" height="234" key="GridCell.Tab.4.right" timestamp="1585512971692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.4.right/0.0.1536.864@0.0.1536.864" timestamp="1585512971692" />
+    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1585309136402">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size/0.0.1536.864@0.0.1536.864" timestamp="1585309136402" />
+    <state x="601" y="132" key="RiderGenerateDialog" timestamp="1585314139569">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="601" y="132" key="RiderGenerateDialog/0.0.1536.864@0.0.1536.864" timestamp="1585314139569" />
+    <state x="277" y="74" key="SettingsEditor" timestamp="1585008152469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585008152469" />
+    <state x="454" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583589441446">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="454" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1583589441446" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585506368075">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585506368075" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585316449716">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585316449716" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KizhiPart3/Debugger/Commands/Run.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/Kizhi/Debugger/Commands/Run.cs" initialLine="21" />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="Kizhi.Interpretator.CommandTree.Node" fieldName="_childNodes" />
+        <PinnedItemInfo typeName="KizhiPart3._2.Interpretator.Interpreter" fieldName="_handlers" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

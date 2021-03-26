@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Контур\Refactoring\obj\Debug\Refactoring.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Контур\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\User\Desktop\Контур\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\User\Desktop\Контур\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\User\Desktop\Контур\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\User\Desktop\Контур\Refactoring\obj\Debug\Refactoring.pdb
